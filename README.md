@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IvanovvAlex
-- 👀 I’m interested in .NET Core, JS, NODE.js and etc
-- 🌱 I’m currently learning React JS
-- 📫 How to reach me alexivanovv4@gmail.com
+- 👀 I’m interested in .NET Core, JS, Python, C++, NODE.js, React.js, Next.js, Express.js, GraphQL, MongoDb, SQL, MySql, MS SQL
+- 📫 How to reach me alex.ivanov@algona.ltd
 
 <!---
 IvanovvAlex/IvanovvAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvanovvAlex
-- 👀 I’m interested in .NET Core, JS, Python, NODE.js, React.js, Next.js, GraphQL, MS SQL and etc.
+- 👀 I’m interested in .NET Core, JS, Python, Node.js, React.js, Next.js, GraphQL, MS SQL and etc.
 - 📫 How to reach me contact@alex-ivanov.com
 
 <!---

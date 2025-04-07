@@ -20,6 +20,11 @@ Currently working at **Aristocrat / Pariplay**, I’ve also contributed to proje
 
 Visit my portfolio: [alex-ivanov.com](https://alex-ivanov.com)
 
+## 📊 GitHub Stats
+
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanovvAlex&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanovvAlex&layout=compact)
+
 ## 🛠️ Tech Stack
 
 ![.NET](https://img.shields.io/badge/-ASP.NET-informational?style=flat&logo=dotnet)

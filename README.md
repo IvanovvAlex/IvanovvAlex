@@ -15,7 +15,6 @@ Currently working at **Aristocrat / Pariplay**, I’ve also contributed to proje
 
 - Email: [contact@alex-ivanov.com](mailto:contact@alex-ivanov.com)
 - [LinkedIn](https://www.linkedin.com/in/alex-ivanov-260766202/)
-- [GitHub](https://github.com/IvanovvAlex)
 
 <!---
 IvanovvAlex/IvanovvAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
